@@ -18,3 +18,4 @@ DFP Adapter Samples
 We have built some sample apps to show how to integrate our DFP Adapter in some typical use cases. Check them out in our github repository https://github.rp-core.com/Mobile/DFPAdapterSamples
 
 Contact Us
+If you have any questions, please contact us at mobileadops@rubiconproject.com
