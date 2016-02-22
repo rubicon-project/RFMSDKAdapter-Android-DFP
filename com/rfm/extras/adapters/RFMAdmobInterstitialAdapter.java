@@ -1,11 +1,10 @@
 /*
-  * Copyright (C) 2016 Rubicon Project. All rights reserved
- * 
- * @author: Rubicon Project.
- *  file for integrating RFM SDK with Admob SDK
- *  RFM SDK will be triggered via Admob Custom Interstitial Event
- *  version: 1.0.0
- * 
+ * Copyright (C) 2016 Rubicon Project. All rights reserved
+ *
+ * Adapter for integrating RFM SDK with Admob SDK
+ * RFM SDK will be triggered via Admob Custom Interstitial
+ * version: 1.0.0
+ *
  */
 package com.rfm.extras.adapters;
 

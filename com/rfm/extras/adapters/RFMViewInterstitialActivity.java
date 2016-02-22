@@ -1,8 +1,6 @@
 /*
  * Copyright (c) 2016. Rubicon Project. All rights reserved
  *
- * RFM SDK needs RFMViewInterstitialActivity to display Interstitial Ads
- * This file needs to be included in AndroidManifest.xml to support Interstitial Ads
  */
 package com.rfm.extras.adapters;
 
